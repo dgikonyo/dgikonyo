@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dgikonyo
-- 👀 I’m interested in creating software that will use AI to make services more efficient.
+- 👀 I’m currently disrupting the market
 - 🌱 I’m currently learning data structures and frotend development using reactJS
 - 💞️ I’m looking to collaborate on AI projects especially on predictions using deep learning!!
 - 📫 Reach me at denniskimani05@gmail.com  or create an extension in github to reachout 👀
