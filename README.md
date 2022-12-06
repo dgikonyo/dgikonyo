@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dgikonyo
-- 👀 I’m currently disrupting the market
-- 🌱 I’m currently learning data structures and frotend development using reactJS
+- 👀 Learning new stuff...to disrupt the market
+- 🌱 I’m currently learning data structures and frotend development using ReactJS
 - 💞️ I’m looking to collaborate on AI projects especially on predictions using deep learning!!
 - 📫 Reach me at denniskimani05@gmail.com  or create an extension in github to reachout 👀
 
